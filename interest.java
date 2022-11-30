@@ -10,9 +10,15 @@ class interest
     int z = 0;
     System.out.println("");
     System.out.println("");
-    System.out.println("CREATED BY TEAMROSH FINTECH SOLUTIONS");
-    System.out.println("         INTEREST CALCULATOR         ");
     System.out.println("");
+    System.out.println("");
+    System.out.println("");
+    System.out.println("𝘾 𝙍 𝙀 𝘼 𝙏 𝙀 𝘿     𝘽 𝙔     𝙏 𝙀 𝘼 𝙈 𝙍 𝙊 𝙎 𝙃     𝙁 𝙄 𝙉 𝙏 𝙀 𝘾 𝙃     𝙎 𝙊 𝙇 𝙐 𝙏 𝙄 𝙊 𝙉 𝙎");
+    System.out.println("                                                  𝓐 𝓒𝓸𝓶𝓹𝓪𝓷𝔂 𝓸𝓯 𝓚𝓾𝓱𝓾𝓡𝓸𝓼𝓱");
+    System.out.println("");
+    System.out.println("");
+    System.out.println("𝗜 𝗡 𝗧 𝗘 𝗥 𝗘 𝗦 𝗧    𝗖 𝗔 𝗟 𝗖 𝗨 𝗟 𝗔 𝗧 𝗢 𝗥");
+    System.out.println("                           𝚅𝙴𝚁𝚂𝙸𝙾𝙽 𝟷.𝟶");
     System.out.println(""); 
     System.out.println("Os Name : "+System.getProperty("os.name"));
     System.out.println("");  
