@@ -1,13 +1,13 @@
-# INTEREST CALCULATOR
+### 𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥
 
-### THIS IS A INTEREST CALCULATING SCRIPT 
+## ᴛʜɪꜱ ɪꜱ ᴀ ɪɴᴛᴇʀᴇꜱᴛ ᴄᴀʟᴄᴜʟᴀᴛɪɴɢ ꜱᴄʀɪᴘᴛ 
 
-##### • COMPOUND INTEREST
-##### • SIMPLE INTEREST 
-##### • FIXED INTEREST
-##### • VARIABLE INTEREST
-##### • DISCOUNTED INTEREST
-##### • ANNUAL INTEREST
-##### • PRIME INTEREST
+## ᴄᴏᴍᴘᴏᴜɴᴅ ɪɴᴛᴇʀᴇꜱᴛ 
+## ꜱɪᴍᴘʟᴇ ɪɴᴛᴇʀᴇꜱᴛ  
+## ꜰɪxᴇᴅ ɪɴᴛᴇʀᴇꜱᴛ 
+## ᴠᴀʀɪᴀʙʟᴇ ɪɴᴛᴇʀᴇꜱᴛ 
+## ᴅɪꜱᴄᴏᴜɴᴛᴇᴅ ɪɴᴛᴇʀᴇꜱᴛ 
+## ᴀɴɴᴜᴀʟ ɪɴᴛᴇʀᴇꜱᴛ 
+## ᴘʀɪᴍᴇ ɪɴᴛᴇʀᴇꜱᴛ
 
-### ALL INTEREST NAME MENTIONED ABOVE CAN BE CALCULATED USING THIS SCRIPT
+## ᴀʟʟ ɪɴᴛᴇʀᴇꜱᴛ ɴᴀᴍᴇ ᴍᴇɴᴛɪᴏɴᴇᴅ ᴀʙᴏᴠᴇ ᴄᴀɴ ʙᴇ ᴄᴀʟᴄᴜʟᴀᴛᴇᴅ ᴜꜱɪɴɢ ᴛʜɪꜱ ꜱᴄʀɪᴘᴛ
